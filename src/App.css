@@ -13,6 +13,7 @@
   }
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +37,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* #p, h1 {
+  text-align: center;
+} */
+
+.Header {
+  font-size: 50px;
+  color: Green;
+
+}
+
