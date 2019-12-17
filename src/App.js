@@ -9,8 +9,7 @@ class App extends Component{
   return( 
     <div class= 'MainMenu'> 
   <div class='Header'>
-      <p> Thank you for visiting the Solidarity Protest site. </p>
-         <p>Please stay tuned for more updates.... </p>
+      <p> Thank you for visiting the Solidarity Protest site. Please stay tuned for more updates.... </p>
    </div> 
       <MenuContainer />
    </div>

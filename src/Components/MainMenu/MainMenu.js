@@ -15,6 +15,7 @@ class MenuContainer extends React.Component {
           { text: 'About' },
           { text: 'Blog' },
           { text: 'Contact' },
+          {text: 'Requests for help'}
         ],
       }
       
