@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/solidarityprotest/static/css/main.8a88cb8d.chunk.css",
+    "main.js": "/solidarityprotest/static/js/main.b8ac650a.chunk.js",
+    "main.js.map": "/solidarityprotest/static/js/main.b8ac650a.chunk.js.map",
+    "runtime-main.js": "/solidarityprotest/static/js/runtime-main.b82d590b.js",
+    "runtime-main.js.map": "/solidarityprotest/static/js/runtime-main.b82d590b.js.map",
+    "static/js/2.f905d08a.chunk.js": "/solidarityprotest/static/js/2.f905d08a.chunk.js",
+    "static/js/2.f905d08a.chunk.js.map": "/solidarityprotest/static/js/2.f905d08a.chunk.js.map",
+    "index.html": "/solidarityprotest/index.html",
+    "precache-manifest.4c91067b857c3cab51681b49b56f31c5.js": "/solidarityprotest/precache-manifest.4c91067b857c3cab51681b49b56f31c5.js",
+    "service-worker.js": "/solidarityprotest/service-worker.js",
+    "static/css/main.8a88cb8d.chunk.css.map": "/solidarityprotest/static/css/main.8a88cb8d.chunk.css.map",
+    "static/js/2.f905d08a.chunk.js.LICENSE": "/solidarityprotest/static/js/2.f905d08a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b82d590b.js",
+    "static/js/2.f905d08a.chunk.js",
+    "static/css/main.8a88cb8d.chunk.css",
+    "static/js/main.b8ac650a.chunk.js"
+  ]
+}
